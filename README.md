@@ -79,6 +79,7 @@ Performed EDA and tried answering the following questions:
  * Box Plot.
 
 **Analysis**:
+
 Performed analysis and made following conclusions:
 
  1.) 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. 
@@ -96,6 +97,7 @@ Performed analysis and made following conclusions:
  13.) Moslty bookings are done by couples(bookings have two adults.)
 
  **Conclusion**
+ 
 The majority of guests come from western europe countries.We should spend a significant amount of our budget on those area.
 Around 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel.Majority of the hotels booked are city hotel. Definitely need to spend the most targeting fund on those hotel.
 We should also target months between May to Aug. Those are peak months due to the summer period.
