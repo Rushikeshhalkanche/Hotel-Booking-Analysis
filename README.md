@@ -1,16 +1,16 @@
 # Hotel-Booking-Analysis
 The project contains the real world data record of hotel bookings of a city and a resort hotel containing details like bookings, cancellations, guest details etc. from 2015 to 2017. In this project we are going to analyze Hotel Booking Data in order to find out valuable insights and give suggestions to increase revenue of hotels.
 
-Programming Language : Python
-Libraries used : Pandas, Numpy, Matplotlib, Seaborn
-NoteBook : Google Colab
-Dataset Source : Provided by Almabetter themself
+**Programming Language** : Python
+**Libraries used** : Pandas, Numpy, Matplotlib, Seaborn
+**NoteBook** : Google Colab
+**Dataset Source** : Provided by Almabetter themself
 
-Objective
+***Objective***
 We are provided with a hotel bookings dataset.
 The main purpose of this study is to perform EDA on the given dataset and draw useful conclusions about the trends in hotel bookings and how factors that control hotel bookings influence each other.
 
-Dataset
+**Dataset**
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
 
 - hotel: Name of hotel ( City or Resort)
@@ -54,7 +54,7 @@ Data Cleaning and Feature Engineering
 (2) Removing Duplicate rows
 (3) Converting columns to appropriate data types
 
-Exploratory Data Analysis
+**Exploratory Data Analysis**
 Performed EDA and tried answering the following questions:
 
 1.  What is percentage of bookings in each hotel?
@@ -71,14 +71,14 @@ Performed EDA and tried answering the following questions:
 
  Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
 
-  Bar Plot.
-  Scatter Plot.
-  Pie Chart.
-  Line Plot.
-  Heatmap.
-  Box Plot.
+ * Bar Plot.
+ * Scatter Plot.
+ * Pie Chart.
+ * Line Plot.
+ * Heatmap.
+ * Box Plot.
 
-Analysis:
+**Analysis**:
 Performed analysis and made following conclusions:
 
  1.) 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. 
@@ -95,7 +95,7 @@ Performed analysis and made following conclusions:
  12.) Arrivals in hotels increases at weekends and also the average daily rate tends to go up as month ends. 
  13.) Moslty bookings are done by couples(bookings have two adults.)
 
- Conclusion
+ **Conclusion**
 The majority of guests come from western europe countries.We should spend a significant amount of our budget on those area.
 Around 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel.Majority of the hotels booked are city hotel. Definitely need to spend the most targeting fund on those hotel.
 We should also target months between May to Aug. Those are peak months due to the summer period.
